@@ -1,0 +1,32 @@
+.app {
+  min-height: 100vh;
+  text-align: center;
+  padding: 40px;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.layout {
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 12px;
+  max-width: 700px;
+}
+
+.mobile {
+  background-color: #dbeafe;
+  border: 3px solid #2563eb;
+}
+
+.desktop {
+  background-color: #dcfce7;
+  border: 3px solid #16a34a;
+}
+
+h1 {
+  color: #222;
+}
+
+p {
+  font-size: 18px;
+}
